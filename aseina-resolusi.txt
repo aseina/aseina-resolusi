@@ -1,3 +1,6 @@
 Aseina Resolusi
 - Konsisten untuk belajar web programming setiap hari minimal 1 jam/hari.
 - Konsisten latihan coding setiap hari minimal 1 jam/hari.
+- Mengerjakan contoh-contoh project coding web yang ditemukan di internet.
+- Membuat project-project untuk portofolio
+
